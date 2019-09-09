@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import "./App.css";
 import Profile from "./components/Profile";
 import Stats from "./components/Stats";
@@ -29,12 +29,12 @@ const stats = [
 
 function App() {
   return (
-    <Fragment>
+    <div className="container">
       <Profile user={user} />
       <Stats title="Upload stats" stats={stats} />
       <PricingPlan items={pricingPlanItems} />
       <TransactionHistory items={transactions} />
-    </Fragment>
+    </div>
   );
 }
 
