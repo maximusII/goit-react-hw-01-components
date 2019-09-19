@@ -1,0 +1,10 @@
+.pricingPlan {
+  width: 1100px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  text-align: center;
+  list-style: none;
+  padding: 100px 5px 100px;
+  background-color: #f3f6f9;
+}

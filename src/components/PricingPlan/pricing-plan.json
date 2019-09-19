@@ -2,7 +2,7 @@
   {
     "id": "id-Bronze",
     "label": "Bronze",
-    "icon": "https://raw.githubusercontent.com/goitacademy/react-homework/master/homework-01/pricing-plan/assets/bronze-icon.png",
+    "icon": "https://d1nhio0ox7pgb.cloudfront.net/_img/i_collection_png/256x256/plain/rack_servers.png",
     "capacity": "2TB",
     "price": 39,
     "description": "Praesent blandit laoreet nibh. Vivamus quis mi. Vestibulum eu odio. Ut tincidunt tincidunt erat. Suspendisse nisl elit, rhoncus eget, elementum ac, condimentum eget, diam."
@@ -10,7 +10,7 @@
   {
     "id": "id-Silver",
     "label": "Silver",
-    "icon": "https://raw.githubusercontent.com/goitacademy/react-homework/master/homework-01/pricing-plan/assets/silver-icon.png",
+    "icon": "https://d1nhio0ox7pgb.cloudfront.net/_img/i_collection_png/256x256/plain/rack_servers.png",
     "capacity": "20TB",
     "price": 99,
     "description": "Praesent blandit laoreet nibh. Vivamus quis mi. Vestibulum eu odio. Ut tincidunt tincidunt erat. Suspendisse nisl elit, rhoncus eget, elementum ac, condimentum eget, diam."
@@ -18,7 +18,7 @@
   {
     "id": "id-Gold",
     "label": "Gold",
-    "icon": "https://raw.githubusercontent.com/goitacademy/react-homework/master/homework-01/pricing-plan/assets/gold-icon.png",
+    "icon": "https://d1nhio0ox7pgb.cloudfront.net/_img/i_collection_png/256x256/plain/rack_servers.png",
     "capacity": "400TB",
     "price": 499,
     "description": "Praesent blandit laoreet nibh. Vivamus quis mi. Vestibulum eu odio. Ut tincidunt tincidunt erat. Suspendisse nisl elit, rhoncus eget, elementum ac, condimentum eget, diam."

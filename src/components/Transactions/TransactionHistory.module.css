@@ -1,0 +1,18 @@
+.transactionHistory {
+  margin: 0 auto;
+  text-align: center;
+  width: 1000px;
+}
+
+.thead {
+  background-color: turquoise;
+  color: #fff;
+  height: 4rem;
+}
+
+.tbodyType,
+.tbodyAmount,
+.tbodyCurrency {
+  border: 1px solid grey;
+  padding: 10px;
+}

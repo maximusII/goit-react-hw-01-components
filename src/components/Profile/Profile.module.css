@@ -1,15 +1,17 @@
-.avatar {
-  width: 100px;
-  border-radius: 50%;
-}
-
 .profile {
   width: 250px;
   height: 300px;
-  margin: 0 auto;
+  margin: 90px auto 0;
   text-align: center;
   padding-top: 30px;
-  border: 1px solid grey;
+  border: 1px solid #f3f6f9;
+  border-radius: 5px;
+  outline: 90px solid #f3f6f9;
+}
+
+.avatar {
+  width: 40%;
+  border-radius: 50%;
 }
 
 .name {
@@ -31,22 +33,20 @@
 
 .stats {
   list-style-type: none;
-  /* height: 54px; */
   margin-top: 30px;
   padding-left: 0;
-  background-color: lightgrey;
+  background-color: #f3f6f9;
   display: flex;
-  justify-content: space-around;
-  /* line-height: 36px; */
+  justify-content: space-between;
+  width: 100%;
+  height: 75px;
 }
 
-.stats > li {
-  width: 33.3%;
-  height: 48px;
-  /* background-color: red; */
-  border: 1px solid grey;
-  padding: 12px 0;
-  /* line-height: 36px; */
+.statsItem {
+  height: 100%;
+  width: 33.33%;
+  outline: 1px solid #e4e9f0;
+  line-height: 30px;
 }
 
 .label {
